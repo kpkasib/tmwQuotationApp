@@ -1,0 +1,19 @@
+Kashmir,ChipBoard,3500
+Kashmir,NoLamination MDF,3500
+Kashmir,Normal MDF,4500
+Kashmir,Tactile MDF,5200
+Kashmir,Acrylic MDF,7000
+Nuboard,ChipBoard,3500
+Nuboard,NoLamination MDF,3500
+Nuboard,Normal MDF,4500
+Nuboard,Tactile MDF,5200
+Nuboard,Acrylic MDF,7000
+ZRK,NoLamination MDF,3500
+ZRK,Normal MDF,4500
+ZRK,Tactile MDF,5500
+ZRK,Acrylic MDF,8000
+Alnoor,HighGloss,5500
+Alnoor,Tactile,6500
+Alnoor,Matt,6800
+Alnoor,Acrylic,9000
+Alnoor,SuperGloss,11000
